@@ -5,16 +5,16 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadSceneAsync(2);
+        SceneManager.LoadSceneAsync("Level 1");
     }
     public void Credit()
     {
-        SceneManager.LoadSceneAsync(4);
+        SceneManager.LoadSceneAsync("Credit Menu");
     }
 
     public void Menu()
     {
-        SceneManager.LoadSceneAsync(1);
+        SceneManager.LoadSceneAsync("Main Menu");
     }
 
 
