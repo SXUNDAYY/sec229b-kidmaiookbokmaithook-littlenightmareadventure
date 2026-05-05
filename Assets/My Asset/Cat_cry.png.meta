@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4e907019c3f670649b95b6fa2d35b56e
+guid: 628796b1409266140a7e8ec5ee22809e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -404068866416998249
-    second: Cat_cry_0
+      213: 3620810837151415597
+    second: Gemini_Generated_Image_cci0zkcci0zkcci0-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cat_cry_0
+      name: Gemini_Generated_Image_cci0zkcci0zkcci0-Photoroom_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1408
-        height: 768
+        width: 1049
+        height: 752
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7988b60c185746af0800000000000000
-      internalID: -404068866416998249
+      spriteID: d2d7b43c544bf3230800000000000000
+      internalID: 3620810837151415597
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cat_cry_0: -404068866416998249
+      Gemini_Generated_Image_cci0zkcci0zkcci0-Photoroom_0: 3620810837151415597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

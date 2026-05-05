@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 446563569da0b3e42a55fc757e2778c3
+guid: 33a201360f4da5446962a1b95e80e4b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9110008724402548641
-    second: Level Complete_0
-  - first:
-      213: -1119404675619851650
-    second: Level Complete_1
+      213: 5588495786530361931
+    second: LOGO-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level Complete_0
+      name: LOGO-Photoroom_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f50d641055fb29180800000000000000
-      internalID: -9110008724402548641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level Complete_1
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 888
-        width: 651
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7274cdd0631770f0800000000000000
-      internalID: -1119404675619851650
+      spriteID: b42d8e80f435e8d40800000000000000
+      internalID: 5588495786530361931
       vertices: []
       indices: 
       edges: []
@@ -163,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Level Complete_0: -9110008724402548641
-      Level Complete_1: -1119404675619851650
+      LOGO-Photoroom_0: 5588495786530361931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
